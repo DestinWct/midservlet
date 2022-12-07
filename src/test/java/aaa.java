@@ -1,5 +1,6 @@
+import java.sql.SQLOutput;
+
 public class aaa {
-    public static void main(String[] args) {
-        int a;
+    public void tetes() {
     }
 }
