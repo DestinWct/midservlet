@@ -1,5 +1,6 @@
 public class aaa {
     public static void main(String[] args) {
-        int a;
+        System.out.println("1");
+        1
     }
 }
